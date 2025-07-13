@@ -1,4 +1,4 @@
-# 👋 Fala, eu sou o Kelvyn Krug
+# Kelvyn Krug
 
 Sou desenvolvedor de software, moro em Itajaí/SC, apaixonado por tecnologia e por transformar ideias em soluções reais. Mais do que escrever código, gosto de entregar valor.
 
